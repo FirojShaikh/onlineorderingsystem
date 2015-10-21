@@ -1,0 +1,9 @@
+C:\Firoj\sandbox\onlineorderingsystem\OnlineOrdering.Common\bin\Debug\OnlineOrdering.Common.dll
+C:\Firoj\sandbox\onlineorderingsystem\OnlineOrdering.Common\bin\Debug\OnlineOrdering.Common.pdb
+C:\Firoj\sandbox\onlineorderingsystem\OnlineOrdering.Common\bin\Debug\Akka.dll
+C:\Firoj\sandbox\onlineorderingsystem\OnlineOrdering.Common\bin\Debug\Newtonsoft.Json.dll
+C:\Firoj\sandbox\onlineorderingsystem\OnlineOrdering.Common\bin\Debug\Akka.xml
+C:\Firoj\sandbox\onlineorderingsystem\OnlineOrdering.Common\bin\Debug\Newtonsoft.Json.xml
+C:\Firoj\sandbox\onlineorderingsystem\OnlineOrdering.Common\obj\Debug\OnlineOrdering.Common.csprojResolveAssemblyReference.cache
+C:\Firoj\sandbox\onlineorderingsystem\OnlineOrdering.Common\obj\Debug\OnlineOrdering.Common.dll
+C:\Firoj\sandbox\onlineorderingsystem\OnlineOrdering.Common\obj\Debug\OnlineOrdering.Common.pdb
